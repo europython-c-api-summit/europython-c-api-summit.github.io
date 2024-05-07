@@ -1,1 +1,0 @@
-# europython-c-api-summit.github.io
